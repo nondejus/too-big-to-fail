@@ -1,2 +1,10 @@
-# too-big-to-fail
-p2p database
+-------------------
+| too-big-to-fail |
+-------------------
+
+
+# peer to peer
+https://en.wikipedia.org/wiki/Peer-to-peer
+
+# key/value database
+https://en.wikipedia.org/wiki/Key%E2%80%93value_database
